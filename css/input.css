@@ -1,0 +1,17 @@
+.inp{
+    padding: 5px 10px;
+    width: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.border-alert{
+    border: 1px solid red;
+}
+.border-success{
+    border: 1px solid green;
+}
+.load{
+    /* content: 'Загрузить↩'; */
+   
+}
+

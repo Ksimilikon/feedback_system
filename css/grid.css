@@ -1,0 +1,15 @@
+.grid{
+    display: grid;
+}
+.g-gap{
+    grid-column-gap: 10px;
+}
+.gc1-3{
+    grid-template-columns: 1fr 75%;
+}
+.g-col1{
+    grid-column: 1;
+}
+.g-col2{
+    grid-column: 2;
+}
